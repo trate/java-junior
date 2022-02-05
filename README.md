@@ -96,7 +96,7 @@ Hello, world!
 - Fork this [repo](https://github.com/eugene-krivosheyev/java-junior) to your account
 - Clone your fork repo locally
 - Update README.md locally to your teammates names
-- Commit and push initial commit
+- Commit and push initial commit with IDEA
 ```
 $ git add .
 $ git commit -m “…”
